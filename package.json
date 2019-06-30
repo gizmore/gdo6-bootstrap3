@@ -1,0 +1,12 @@
+{
+  "name": "gdo6-bootstrap3",
+  "version": "6.09",
+  "description": "Bootstrap3 module for GDO6",
+  "main": "Module_Bootstrap3.php",
+  "repository": "https://github.com/gizmore/gdo6-bootstrap3",
+  "author": "gizmore",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
