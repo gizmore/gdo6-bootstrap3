@@ -1,5 +1,5 @@
 <?php
-namespace GDO\Bootstrap;
+namespace GDO\Bootstrap3;
 
 use GDO\Core\GDO_Module;
 use GDO\Core\Module_Core;
