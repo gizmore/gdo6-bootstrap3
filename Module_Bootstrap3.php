@@ -24,7 +24,7 @@ final class Module_Bootstrap3 extends GDO_Module
 	{
 	    if (Application::instance()->hasTheme('bs3'))
 	    {
-    		$min = Module_Core::instance()->jsMinAppend();
+    		$min = Module_Core::instance()->cfgMinAppend();
     		
     		$this->addBowerJS("bootstrap/dist/js/bootstrap$min.js");
     		$this->addBowerCSS("bootstrap/dist/css/bootstrap$min.css");
